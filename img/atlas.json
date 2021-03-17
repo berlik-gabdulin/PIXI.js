@@ -1,0 +1,240 @@
+{"frames": {
+
+"Austin.png":
+{
+	"frame": {"x":1917,"y":229,"w":87,"h":306},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":306},
+	"sourceSize": {"w":87,"h":306}
+},
+"bg_main.jpg":
+{
+	"frame": {"x":0,"y":0,"w":1390,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1390,"h":640},
+	"sourceSize": {"w":1390,"h":640}
+},
+"book_stand.png":
+{
+	"frame": {"x":1870,"y":593,"w":140,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":189},
+	"sourceSize": {"w":140,"h":189}
+},
+"btn_continue.png":
+{
+	"frame": {"x":1793,"y":229,"w":364,"h":124},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":364,"h":124},
+	"sourceSize": {"w":364,"h":124}
+},
+"btn_ok.png":
+{
+	"frame": {"x":1897,"y":1596,"w":141,"h":78},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":78},
+	"sourceSize": {"w":141,"h":78}
+},
+"final_popup.png":
+{
+	"frame": {"x":0,"y":640,"w":610,"h":395},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":395},
+	"sourceSize": {"w":610,"h":395}
+},
+"globe.png":
+{
+	"frame": {"x":1648,"y":897,"w":147,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":188},
+	"sourceSize": {"w":147,"h":188}
+},
+"icon_hammer.png":
+{
+	"frame": {"x":1576,"y":1903,"w":106,"h":129},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":129},
+	"sourceSize": {"w":106,"h":129}
+},
+"icon_menu.png":
+{
+	"frame": {"x":1870,"y":782,"w":137,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":137},
+	"sourceSize": {"w":137,"h":137}
+},
+"icon_menu_active.png":
+{
+	"frame": {"x":1795,"y":919,"w":137,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":137},
+	"sourceSize": {"w":137,"h":137}
+},
+"logo.png":
+{
+	"frame": {"x":1800,"y":1596,"w":298,"h":97},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":97},
+	"sourceSize": {"w":298,"h":97}
+},
+"object_hall_plant_in_basket_02.png":
+{
+	"frame": {"x":1793,"y":0,"w":229,"h":217},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":217},
+	"sourceSize": {"w":229,"h":217}
+},
+"plant.png":
+{
+	"frame": {"x":1425,"y":1903,"w":115,"h":151},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":151},
+	"sourceSize": {"w":115,"h":151}
+},
+"sofa.png":
+{
+	"frame": {"x":1425,"y":1596,"w":375,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":307},
+	"sourceSize": {"w":375,"h":307}
+},
+"stair_menu_01.png":
+{
+	"frame": {"x":1897,"y":1737,"w":85,"h":80},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":80},
+	"sourceSize": {"w":85,"h":80}
+},
+"stair_menu_02.png":
+{
+	"frame": {"x":1932,"y":919,"w":87,"h":76},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":76},
+	"sourceSize": {"w":87,"h":76}
+},
+"stair_menu_03.png":
+{
+	"frame": {"x":1705,"y":1903,"w":89,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":82},
+	"sourceSize": {"w":89,"h":82}
+},
+"stair_new_01.png":
+{
+	"frame": {"x":1165,"y":640,"w":483,"h":478},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":162,"w":483,"h":478},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_01_carpet.png":
+{
+	"frame": {"x":1537,"y":1118,"w":458,"h":478},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":154,"w":458,"h":478},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_01_railing.png":
+{
+	"frame": {"x":610,"y":640,"w":426,"h":555},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":23,"w":426,"h":555},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_02.png":
+{
+	"frame": {"x":482,"y":1534,"w":484,"h":481},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":154,"w":484,"h":481},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_02_carpet.png":
+{
+	"frame": {"x":0,"y":1035,"w":492,"h":499},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":141,"w":492,"h":499},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_02_railing.png":
+{
+	"frame": {"x":992,"y":1118,"w":404,"h":545},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":26,"w":404,"h":545},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_03.png":
+{
+	"frame": {"x":0,"y":1534,"w":482,"h":484},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":150,"w":482,"h":484},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_03_carpet.png":
+{
+	"frame": {"x":963,"y":1526,"w":462,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":148,"w":462,"h":477},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_new_03_railing.png":
+{
+	"frame": {"x":1390,"y":0,"w":403,"h":595},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":22,"w":403,"h":595},
+	"sourceSize": {"w":492,"h":640}
+},
+"stair_old.png":
+{
+	"frame": {"x":492,"y":1066,"w":460,"h":500},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":460,"h":500},
+	"sourceSize": {"w":460,"h":500}
+},
+"table.png":
+{
+	"frame": {"x":1648,"y":595,"w":302,"h":222},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":222},
+	"sourceSize": {"w":302,"h":222}
+}},
+"animations": {
+	"stair_menu": ["stair_menu_01.png","stair_menu_02.png","stair_menu_03.png"],
+	"stair_new": ["stair_new_01.png","stair_new_02.png","stair_new_03.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2010,"h":2018},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d3e5e4b12f4dbb652a5cb185d7edae4:ed116cbaa335102cc968d849f41b426e:cbce6b53f0f49e0bf15173c25c41f876$"
+}
+}
