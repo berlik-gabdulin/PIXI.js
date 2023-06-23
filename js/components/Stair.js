@@ -42,21 +42,31 @@ export default class Stair {
   destroy() {
     const delay = 0.1;
 
-    stairElements.forEach((elem, index) => {
-      gsap.to(this[elem], {
-        alpha: 0,
-        y: CONST_HEIGHT + this[elem].height,
-        duration: 0.5,
-        delay: delay * index,
-        onComplete:
-          index + 1 === stairElements.length ? this[elem].remove : null,
+    const removeElements = () => {
+      stairElements.forEach((elem, index) => {
+        gsap.to(this[elem], {
+          alpha: 0,
+          y: CONST_HEIGHT + this[elem].height,
+          duration: 0.5,
+          delay: delay * index,
+          onComplete: () => {
+            if (index + 1 === stairElements.length) {
+              this.remove();
+            }
+          },
+        });
       });
-    });
+    };
+
+    removeElements();
   }
 
   remove() {
-    console.log(this.app.appContainer);
     this.app.appContainer.removeChild(this.stair, this.railing, this.carpet);
+
+    this.stair.destroy();
+    this.railing.destroy();
+    this.carpet.destroy();
 
     this.stair = null;
     this.railing = null;
