@@ -33,7 +33,7 @@ class GameApp {
   }
 
   init() {
-    PIXI.loader.add('assets/atlas.json').load(() => {
+    PIXI.loader.add('./assets/atlas.json').load(() => {
       this.spriteManager.loadTextures();
       this.createBackground();
       this.createSprites();

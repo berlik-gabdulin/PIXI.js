@@ -11,7 +11,7 @@ export default class SpriteManager {
   }
 
   loadTextures() {
-    const atlasData = PIXI.loader.resources['assets/atlas.json'].textures;
+    const atlasData = PIXI.loader.resources['./assets/atlas.json'].textures;
 
     for (const name in atlasData) {
       const texture = atlasData[name];
