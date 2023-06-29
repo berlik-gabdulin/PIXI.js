@@ -1,6 +1,6 @@
 import MenuItem from './components/MenuItem.js';
 import Stair from './components/Stair.js';
-import SpriteManager from './components/spriteManager.js';
+import SpriteManager from './components/SpriteManager.js';
 import {
   CONST_HEIGHT,
   CONST_WIDTH,
